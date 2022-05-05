@@ -1,2 +1,8 @@
 # House-Price-Prediction
-This is a competition project on Kaggle to predict the house price based on 79 variables
+Goals: To build model regression model to predict the house price
+
+### Data Set
+House Prices - Advanced Regression Techniques from Kaggle
+
+### Explore step
+* Dealing with the missing inside table 
